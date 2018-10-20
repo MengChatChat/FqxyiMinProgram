@@ -1,0 +1,8 @@
+<!--index.wxml-->
+
+<view class="home">
+    <view class="content" data-openurl="https://www.fqxyi.com/archives/230/" bindtap="click1">Android面试总结</view>
+    <view class="content" data-openurl="https://www.fqxyi.com/archives/227/" bindtap="click2">LifeCycle源码解读</view>
+    <view class="content" data-openurl="https://www.fqxyi.com/archives/224/" bindtap="click3">LiveData-MVVM</view>
+    <view class="content" data-openurl="https://www.fqxyi.com/archives/222/" bindtap="click4">Linux安装Android</view>
+</view>
